@@ -1,3 +1,10 @@
+<!-- readme-hero -->
+<div align="center">
+
+<img src="assets/readme-hero.svg" alt="CAROUSEL GENERATOR" width="100%" />
+
+</div>
+
 # Carousel Generator
 
 **Carousel Generator** is an open-source carousel generator tool that allows you to easily create and customize carousels for your LinkedIn.
